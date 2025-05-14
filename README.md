@@ -8,7 +8,14 @@
 
  pkg install git
 
- git clone 
+ git clone https://github.com/kierex/guess-game
+
+ cd guess-game
+
+ ls
+
+ python game.py
+ 
     
         
         
